@@ -1,0 +1,2 @@
+# Moyenne
+calcule de moyenne
